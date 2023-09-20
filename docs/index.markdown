@@ -13,6 +13,8 @@ Firmware development and actuation-related coding pique my interest.
 
 Dedicated to mastering machine learning and developing custom ML architectures in my spare time.
 
+My education is in signal processing (and image processing), which is how I ended up finding out about ML through the similar math!
+
 When I'm not working on machine learning projects, I often find myself engaged in web development endeavors. ([Like this project I made for my friend's TTRPG](https://github.com/lokej-h/civvy-roller/).)
 
 ## I am especially good at:
