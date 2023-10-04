@@ -9,7 +9,9 @@ layout: splash
 
 *Passionate about diverse projects ranging from DIY electronics to web applications.*
 
-Firmware development and actuation-related coding pique my interest.
+I'm mostly a Python programmer as it the one language I've been able to use anywhere for almost any project.
+
+Interested in developing tools for content creation. Firmware development and actuation-related coding pique my interest.
 
 Dedicated to mastering machine learning and developing custom ML architectures in my spare time.
 
